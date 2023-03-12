@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Smooth processing for acoustic sources" LastUsed="1445543299" LastModified="1445540694">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Release" Value="120.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-21.56121445" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Gain" Value="-0.10000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="30.00000000" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="131.82688904" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="1830.32080078" />
+    </Dynamics>
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="165.71136475" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="0.60000008" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="35.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Q" Value="12.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Shape" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="175.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Gain" Value="-1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="4.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="280.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="-1.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Shape" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="3200.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="0.83975905" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="1.50000000" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Equalizer" ParamID="EQ Mode" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIACAAAAER5bmFtaWNzAAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="6.77277756" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-5.19561195" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

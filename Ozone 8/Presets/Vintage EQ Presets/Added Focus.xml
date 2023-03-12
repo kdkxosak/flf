@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Controls and brings out the midrange for better focus" LastUsed="1445537923" LastModified="1445537952">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost" Value="5.05882359" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP Low Atten" Value="1.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP Low Boost" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP Low Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Frequency" Value="5" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="5.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Mid/Side Selection" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Processing Mode" Value="1" />
+    </VintageEQ>
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

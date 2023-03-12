@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Imager Stereoize increases the sense of depth and space on your stereo bus. Adjust the Stereo Width slider to reduce or increase the effect" LastUsed="1506558791" LastModified="1506212474">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="128.00001526" />
+        <Param ElementID="Dynamics" ParamID="Mode" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Soft Knee" Value="5.29411793" />
+        <Param ElementID="Dynamics" ParamID="Num Bands" Value="1" />
+    </Dynamics>
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Q" Value="12.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 6 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="1.04369760" />
+        <Param ElementID="Equalizer" ParamID="Processing Mode" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="0.98319334" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="0.86218494" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="1.85937512" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="5657.49609375" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="220.90834045" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="1.10420179" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="92.01332092" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Q" Value="12.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Gain" Value="-0.28739491" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Enable" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 3 Frequency" Value="542.27978516" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 3 Enable" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Frequency" Value="20.66912842" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Frequency" Value="20000.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Frequency" Value="2679.36474609" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Q" Value="0.46550000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 6 Frequency" Value="5450.31201172" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Shape" Value="10" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 6 Gain" Value="-1.31596637" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="10983.57128906" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Gain" Value="1.58571434" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 3 Gain" Value="-0.71092433" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Shape" Value="9" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 3 Q" Value="1.64550006" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 6 Q" Value="2.58949995" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Q" Value="2.58949995" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Gain" Value="2.25378156" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIADQAAAFN0ZXJlbyBJbWFnZXIACAAAAER5bmFtaWNzAAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Num Bands" Value="3" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="26.58227539" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="17.72151947" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="165.27146912" />
+        <Param ElementID="Stereo Imager" ParamID="Enable Stereoizer" Value="1" />
+        <Param ElementID="Stereo Imager" ParamID="Stereoizer Delay" Value="10.92222214" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="3333.19287109" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-1.00000000" />
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.50000000" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <SpectralShaper Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone8App>

@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Midrange warmth for old-school rock processing" LastUsed="1445543303" LastModified="1445541101">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Frequency" Value="443.44659424" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Gain" Value="-0.52941173" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Q" Value="0.84375000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Shape" Value="2" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Frequency" Value="87.12625885" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Gain" Value="1.04369760" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Q" Value="0.84375000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Shape" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Frequency" Value="1955.35668945" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Gain" Value="0.69999999" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Q" Value="0.46443745" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="9749.45703125" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="-0.89243692" />
+    </DynamicEQ>
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Attack" Value="24.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Ratio" Value="4.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="105.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-8.19659805" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Mix" Value="63.88888931" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Attack" Value="44.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Release" Value="80.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Soft Knee" Value="5.52941227" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-9.46687698" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="48.88888931" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Attack" Value="50.84631348" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Ratio" Value="3.67097712" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Release" Value="428.86993408" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-28.00000000" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="236.86523438" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="5329.46777344" />
+        <Param ElementID="Dynamics" ParamID="Detection Method" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Num Bands" Value="3" />
+    </Dynamics>
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="85.54508972" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="0.62016815" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Q" Value="12.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="142.44909668" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Gain" Value="0.07563031" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="1.09237504" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="499.25759888" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="-1.10000145" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="4165.71630859" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="0.60000002" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Band 1 Amount" Value="2.55882359" />
+        <Param ElementID="Exciter" ParamID="Band 1 Mix" Value="18.00000000" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="10000.00000000" />
+        <Param ElementID="Exciter" ParamID="Currently Visible Meter" Value="1" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="2" />
+        <Param ElementID="Exciter" ParamID="Num Bands" Value="1" />
+        <Param ElementID="Exciter" ParamID="Post-Filter Frequency" Value="4128.13232422" />
+        <Param ElementID="Exciter" ParamID="Post-Filter Gain" Value="-3.96909070" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIACAAAAER5bmFtaWNzAAoAAABEeW5hbWljIEVRAAcAAABFeGNpdGVyAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-3.79999995" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

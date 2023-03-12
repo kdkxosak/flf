@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Tight bass processing for synthetic bass sources" LastUsed="1445543338" LastModified="1445537731">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGUACgAAAFZpbnRhZ2UgRVEADwAAAFZpbnRhZ2UgTGltaXRlcg==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="0.30000001" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="1.29999995" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="4" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.39999998" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-3.50000000" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="0.78963804" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="7.18446636" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="3.93590617" />
+    </VintageTape>
+</Ozone7>

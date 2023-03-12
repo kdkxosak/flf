@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Brings out transient detail with subtle even harmonics" LastUsed="1445539671" LastModified="1445538842">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA4AAABQb3N0IEVxdWFsaXplcgAIAAAARHluYW1pY3MACQAAAE1heGltaXplcgAMAAAAVmludGFnZSBUYXBl" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-5.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="2.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="3.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="3.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="4.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Tape Speed" Value="1" />
+    </VintageTape>
+</Ozone7>

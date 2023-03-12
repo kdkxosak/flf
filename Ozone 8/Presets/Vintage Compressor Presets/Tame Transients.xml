@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Added control of extra dynamic material" LastUsed="1445539683" LastModified="1445539061">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3I=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="3.99999976" />
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="1.39999998" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="1788.05236816" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="7.96297026" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="6786.23974609" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="6.48148537" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-6.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

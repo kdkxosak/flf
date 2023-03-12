@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Low end dynamics with smooth mid boost" LastUsed="1445540018" LastModified="1445445314">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="2" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Attack" Value="10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Release" Value="100.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Lim Attack" Value="5.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Lim Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Attack" Value="10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Release" Value="100.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Lim Attack" Value="5.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Lim Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Attack" Value="10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Release" Value="100.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Lim Attack" Value="5.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Lim Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Attack" Value="10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Release" Value="100.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Lim Attack" Value="5.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Lim Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Mode" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Aux: Sidechain HPF" Value="20.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Sidechain Slope" Value="0" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Ratio" Value="3.24992752" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-9.36416626" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Ratio" Value="22.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Ratio" Value="1.64901161" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Soft Knee" Value="3.41176486" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-9.60813904" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Gain" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Lim Soft Knee" Value="3.05882359" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Lim Threshold" Value="-1.64796448" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="72.77777863" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Ratio" Value="2.20000005" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-12.75199890" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Gain" Value="1.53846169" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Attack" Value="10.04371452" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Ratio" Value="2.46038294" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Threshold" Value="-23.83943939" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Gain" Value="2.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Lim Threshold" Value="-1.33352661" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="100.13197327" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="323.50067139" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="5057.99462891" />
+        <Param ElementID="Dynamics" ParamID="Crossover Type" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Detection Method" Value="2" />
+        <Param ElementID="Dynamics" ParamID="Mode" Value="1" />
+    </Dynamics>
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcw==" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

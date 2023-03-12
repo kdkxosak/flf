@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Aggressive indie music processing" LastUsed="1445543300" LastModified="1445540884">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Frequency" Value="143.66140747" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Gain" Value="0.43865553" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Frequency" Value="11231.76171875" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Gain" Value="1.10420179" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Q" Value="0.46443745" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Frequency" Value="169.90016174" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Gain" Value="-1.37647057" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="11485.55078125" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="-1.07395029" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="30.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="0.40000001" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Frequency" Value="1198.32617188" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Gain" Value="-0.22688985" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Q" Value="3.15000010" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="4000.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="0.30000001" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="8653.75585938" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="0.55966526" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABEeW5hbWljIEVRAAkAAABFcXVhbGl6ZXIACQAAAE1heGltaXplcg==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.28161454" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Spectral Shaping Style" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.59736109" />
+        <Param ElementID="Maximizer" ParamID="Transient Shaping" Value="29.12621498" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

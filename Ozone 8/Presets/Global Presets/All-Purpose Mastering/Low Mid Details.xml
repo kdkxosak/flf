@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Added lower midrange frequencies and detail" LastUsed="1445543330" LastModified="1445535322">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Frequency" Value="540.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Frequency" Value="2700.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Frequency" Value="540.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Frequency" Value="2700.00000000" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAAwAAABWaW50YWdlIFRhcGUADQAAAFN0ZXJlbyBJbWFnZXIADwAAAFZpbnRhZ2UgTGltaXRlcg==" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-35.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="-12.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="22.78480530" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="44.30380249" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="130.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="2205.57031250" />
+    </Imager>
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Atten" Value="1.39999998" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Atten Frequency" Value="2" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="2.35294127" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="6.94117641" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="3" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.70000005" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-8.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-5.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="4.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="2.50000000" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="0.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="12.00000000" />
+    </VintageTape>
+</Ozone7>

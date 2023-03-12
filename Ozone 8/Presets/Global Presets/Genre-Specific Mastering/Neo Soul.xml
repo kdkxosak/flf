@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Low end smoothing with vintage tape processing" LastUsed="1445537525" LastModified="1445537567">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="84.66666412" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="1.50083339" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="25.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="0.20000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Shape" Value="6" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGUACQAAAEVxdWFsaXplcgAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.60000002" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.11750793" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-7.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="True Peak" Value="1" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-10.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="1.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="7.00000000" />
+    </VintageTape>
+</Ozone7>

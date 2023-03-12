@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Bossa nova style bass and polishing" LastUsed="1445543333" LastModified="1445535662">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAAwAAABWaW50YWdlIFRhcGUAEgAAAFZpbnRhZ2UgQ29tcHJlc3NvcgAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="0.60000002" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="30.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="4.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="7921.43310547" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="-6.11113834" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-6.29115677" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost" Value="2.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Boost" Value="2.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Mid Cut" Value="1.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Mid Frequency" Value="6" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="0.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="1.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Mid/Side Selection" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Processing Mode" Value="1" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="0.20000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.18136001" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-3.19639969" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="7.23300982" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="3.44660187" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="2.57281542" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="-8.30904770" />
+    </VintageTape>
+</Ozone7>

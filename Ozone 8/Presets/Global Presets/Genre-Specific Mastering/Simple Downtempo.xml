@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Light compression and modern limiting" LastUsed="1445543301" LastModified="1445540957">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="50.90370178" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-7.95129395" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="0.40000001" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Attack" Value="24.52079010" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Ratio" Value="1.73358881" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Release" Value="298.05154419" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-11.37415981" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Gain" Value="0.20000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="48.33333206" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Attack" Value="42.88701248" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Ratio" Value="1.35000145" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Release" Value="221.59130859" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-24.06130600" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Gain" Value="1.60000002" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Mix" Value="58.88888931" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Threshold" Value="-53.32633972" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Gain" Value="2.40000010" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="161.49902344" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="3999.79248047" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="11078.83300781" />
+    </Dynamics>
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcwAJAAAATWF4aW1pemVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.77999985" />
+        <Param ElementID="Maximizer" ParamID="Enable Transient Shaping" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.00000000" />
+        <Param ElementID="Maximizer" ParamID="Transient Shaping" Value="61.16504669" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

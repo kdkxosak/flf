@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Stereo high end smoothing" LastUsed="1445540005" LastModified="1445539899">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Aux: Band 3 Amount" Value="6.46788979" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 3 Mix" Value="15.59633064" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 4 Amount" Value="4.95412874" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 4 Mix" Value="34.86238480" />
+        <Param ElementID="Exciter" ParamID="Aux: Mode" Value="1" />
+        <Param ElementID="Exciter" ParamID="Aux: Post-Filter Frequency" Value="20000.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="2.88990831" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="23.85321045" />
+        <Param ElementID="Exciter" ParamID="Band 4 Amount" Value="3.85321093" />
+        <Param ElementID="Exciter" ParamID="Band 4 Mix" Value="21.10091782" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="115.58737946" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="8085.61523438" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="11584.26953125" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="1" />
+        <Param ElementID="Exciter" ParamID="Post-Filter Frequency" Value="20000.00000000" />
+        <Param ElementID="Exciter" ParamID="Processing Mode" Value="1" />
+    </Exciter>
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAcAAABFeGNpdGVy" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

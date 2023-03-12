@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Add focus to each instrument across all frequencies" LastUsed="1445543070" LastModified="1445543100">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="165.71136475" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="0.81333339" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="150.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-2.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Q" Value="5.18549919" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Shape" Value="15" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="30.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Gain" Value="-0.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="0.20000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Shape" Value="11" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="3.15000010" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="12000.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="1.00000000" />
+        <Param ElementID="Equalizer" ParamID="EQ Mode" Value="1" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIADQAAAFN0ZXJlbyBJbWFnZXIACQAAAE1heGltaXplcg==" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-25.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="-5.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="20.00000000" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.39999998" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-5.11796093" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

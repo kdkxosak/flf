@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Spatial high end sheen" LastUsed="1445540032" LastModified="1445445421">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Aux: Mode" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-5.20622253" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Threshold" Value="-1.17884827" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-7.72846985" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Ratio" Value="2.46038294" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Release" Value="100.43712616" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-16.33304596" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Gain" Value="-0.76922989" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Lim Threshold" Value="-1.34185791" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Ratio" Value="2.46038294" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Threshold" Value="-19.69482422" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="175.20249939" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="3595.06347656" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="6593.78076172" />
+        <Param ElementID="Dynamics" ParamID="Mode" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Num Bands" Value="3" />
+        <Param ElementID="Dynamics" ParamID="Sidechain HPF" Value="83.68437195" />
+    </Dynamics>
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcw==" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

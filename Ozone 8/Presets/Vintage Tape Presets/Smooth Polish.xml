@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="General smoothing and enhancing of the overall mix" LastUsed="1445539673" LastModified="1445538764">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGU=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-0.78963804" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="4.80582523" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="5.43689299" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="4.40000010" />
+    </VintageTape>
+</Ozone7>

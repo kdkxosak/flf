@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Midrange control circuit smoothing" LastUsed="1445540006" LastModified="1445444714">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Aux: Post-Filter Frequency" Value="20000.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 1 Amount" Value="2.82352948" />
+        <Param ElementID="Exciter" ParamID="Band 1 Mix" Value="77.05882263" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="31.76470757" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="1.67647064" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="36.47058868" />
+        <Param ElementID="Exciter" ParamID="Band 4 Amount" Value="2.29411769" />
+        <Param ElementID="Exciter" ParamID="Band 4 Mix" Value="38.23529434" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="129.37214661" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="781.92944336" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="3309.04882812" />
+    </Exciter>
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAcAAABFeGNpdGVy" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

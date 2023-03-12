@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Accentuated midrange compression to give focus" LastUsed="1445539682" LastModified="1445538888">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3I=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="4.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="2400.06054688" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="6.85185623" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Highpass Frequency" Value="99.76628876" />
+    </VintageCompressor>
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

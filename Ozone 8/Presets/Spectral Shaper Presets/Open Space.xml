@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Tame resonances that mask reverbs sustained content. " LastUsed="1506541696" LastModified="1506288360">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA8AAABTcGVjdHJhbCBTaGFwZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="1">
+        <Param ElementID="Spectral Shaper" ParamID="Aux: ATTACK_TIME" Value="8.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="PROCESSING_MODE" Value="1" />
+        <Param ElementID="Spectral Shaper" ParamID="Aux: RELEASE_TIME" Value="5.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="ATTACK_TIME" Value="8.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="SPECTRAL_TILT" Value="50.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="Aux: SPECTRAL_TILT" Value="100.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="Aux: THRESHOLD" Value="-8.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="MID_SIDE_SELECTION" Value="1" />
+        <Param ElementID="Spectral Shaper" ParamID="THRESHOLD" Value="-6.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="LOW_CUTOFF" Value="350.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="RELEASE_TIME" Value="5.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="HIGH_CUTOFF" Value="1019.71014404" />
+    </SpectralShaper>
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>

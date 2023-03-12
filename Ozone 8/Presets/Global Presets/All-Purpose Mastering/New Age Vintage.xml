@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Modern take on vintage mastering" LastUsed="1445543331" LastModified="1445535492">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.85087943" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.40383291" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="142.48254395" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-236.94183350" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.85087943" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.40383291" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="142.48254395" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-236.94183350" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGUACgAAAFZpbnRhZ2UgRVEAEgAAAFZpbnRhZ2UgQ29tcHJlc3NvcgANAAAAU3RlcmVvIEltYWdlcgAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-3.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="5.99998999" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="-6.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="12.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="183.03222656" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="2351.21508789" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 3" Value="5107.13671875" />
+    </Imager>
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="100.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="2" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="42.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="4.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="5994.89599609" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="-8.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-10.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Atten" Value="3.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost" Value="3.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="1.52941179" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="2.35294127" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Frequency" Value="3" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="4" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="10.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.14182472" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-1.74779510" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-3.98461914" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="4.17475748" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="6.55339766" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="9.00000000" />
+    </VintageTape>
+</Ozone7>

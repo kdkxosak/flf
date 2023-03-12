@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Analog smoothing of modern synth stems" LastUsed="1445543341" LastModified="1445537792">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRABIAAABWaW50YWdlIENvbXByZXNzb3IADwAAAFZpbnRhZ2UgTGltaXRlcg==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="30.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="80.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="2.09999990" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="3949.14331055" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="-8.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="4531.06201172" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="2.03702974" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-28.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Q" Value="4.70588255" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="5.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="5.17647076" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="0" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.30000001" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-3.00000000" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

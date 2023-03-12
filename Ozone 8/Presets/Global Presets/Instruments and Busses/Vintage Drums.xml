@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Vintage processing for crunchier drums" LastUsed="1445543338" LastModified="1445537769">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Attack" Value="0.01000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Ratio" Value="1.50000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="400.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-60.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="0.10000038" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Release" Value="99.98332977" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Mix" Value="30.00000191" />
+        <Param ElementID="Dynamics" ParamID="Num Bands" Value="1" />
+    </Dynamics>
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ2>
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Band 2 Amount" Value="6.35294104" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="31.17647171" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="112.77448273" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="670.16479492" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="4180.25048828" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="6" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcwAMAAAAVmludGFnZSBUYXBlAAcAAABFeGNpdGVyAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.59999990" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000038" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-3.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="0.29186344" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="10.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="6.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="18.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Tape Speed" Value="1" />
+    </VintageTape>
+</Ozone7>

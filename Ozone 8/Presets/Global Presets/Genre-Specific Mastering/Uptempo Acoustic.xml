@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Vintage dynamics for acoustic music" LastUsed="1445537643" LastModified="1445537663">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Alt Solo Freq" Value="135.36157227" />
+        <Param ElementID="Dynamic EQ" ParamID="Alt Solo Gain" Value="0.19663872" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Frequency" Value="118.96623993" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Gain" Value="-2.29999924" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Q" Value="3.69974995" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Threshold" Value="-35.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Frequency" Value="8589.50585938" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Gain" Value="-1.61848736" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Q" Value="1.17100000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Threshold" Value="-36.00000000" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAAoAAABEeW5hbWljIEVRAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="0.80000001" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="0" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="5.80000019" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.00833334" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-5.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="790" Comments="Smooth and fast limiting without sacrificing fullness in the midrange" LastUsed="1506288547" LastModified="1506288549">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Stereo Transient Link Amount" Value="10.00000000" />
+        <Param ElementID="Maximizer" ParamID="Stereo Link Amounts Linked" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="2" />
+        <Param ElementID="Maximizer" ParamID="Stereo Link" Value="20.00000000" />
+        <Param ElementID="Maximizer" ParamID="Max Character" Value="2" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-6.00000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-1.00000000" />
+        <Param ElementID="Maximizer" ParamID="Character" Value="0.75000000" />
+    </Maximizer>
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Transient unlinking between left and right channels allows the attack of drums to punch through mix when increasing loudness" LastUsed="1506558872" LastModified="1506212097">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Q" Value="0.50000000" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="2467.38525391" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="-2.00000000" />
+        <Param ElementID="Equalizer" ParamID="Processing Mode" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Mid/Side Selection" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="-2.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Q" Value="6.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="-2.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="6.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="1600.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="550.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Q" Value="0.20000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Frequency" Value="400.00000000" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Q" Value="6.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Shape" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Frequency" Value="10195.13671875" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="2.73781514" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="3400.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Gain" Value="-1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Shape" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 7 Gain" Value="2.00000000" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Mode" Value="7" />
+        <Param ElementID="Exciter" ParamID="Band 3 Exciter Mode" Value="4" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="10.58823586" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="5858.34570312" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="1410.83581543" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="20.00000000" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIABwAAAEV4Y2l0ZXIACQAAAE1heGltaXplcg==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Stereo Transient Link Amount" Value="30.00000000" />
+        <Param ElementID="Maximizer" ParamID="Stereo Link Amounts Linked" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.00000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-1.00000000" />
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.00000000" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <SpectralShaper Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone8App>

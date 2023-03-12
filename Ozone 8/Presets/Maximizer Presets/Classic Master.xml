@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="An Ozone classic, balanced master" LastUsed="1445539385" LastModified="1445376302">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.55339813" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.13453484" />
+        <Param ElementID="Maximizer" ParamID="Max Character" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Prevent Intersample Clipping" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Release" Value="500.00000000" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-1.59325409" />
+    </Maximizer>
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

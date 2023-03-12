@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Tube modeled excitation with modern spectral limiting" LastUsed="1445542572" LastModified="1445542601">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="385.39514160" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="-0.40840331" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Frequency" Value="200.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Gain" Value="-1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Q" Value="5.46024036" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 1 Shape" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Frequency" Value="5500.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Gain" Value="1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Aux: Band 5 Q" Value="5.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="550.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="1.01666677" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Q" Value="6.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Shape" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="385.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="-0.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Q" Value="4.00000000" />
+        <Param ElementID="Equalizer" ParamID="Processing Mode" Value="1" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Band 1 Amount" Value="2.02940989" />
+        <Param ElementID="Exciter" ParamID="Band 1 Mix" Value="30.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="0.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="5.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="20.00000000" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="238.92433167" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="2003.16711426" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="6119.39062500" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="6" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIABwAAAEV4Y2l0ZXIADQAAAFN0ZXJlbyBJbWFnZXIACQAAAE1heGltaXplcg==" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-0.09999999" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="0.03333334" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="20.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="35.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="3852.62158203" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="2.50000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Prevent Intersample Clipping" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-3.19639540" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

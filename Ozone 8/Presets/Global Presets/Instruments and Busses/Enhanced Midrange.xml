@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Brings out midrange for multiple genres" LastUsed="1445543337" LastModified="1445535697">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3IACgAAAFZpbnRhZ2UgRVEADAAAAFZpbnRhZ2UgVGFwZQ==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="20.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="60.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="2.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="2139.93920898" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="3.14814377" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="5957.80810547" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="-3.14816856" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Highpass Frequency" Value="99.76628876" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-18.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="4.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="8" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-5.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="10.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="5.72815514" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="3.50000000" />
+        <Param ElementID="Vintage Tape" ParamID="Tape Speed" Value="1" />
+    </VintageTape>
+</Ozone7>

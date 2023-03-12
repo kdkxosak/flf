@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="790" Comments="Add a little more snap to transients with different modes per band" LastUsed="1506288220" LastModified="1506288233">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Mode" Value="7" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="130.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 4 Exciter Mode" Value="2" />
+        <Param ElementID="Exciter" ParamID="Band 3 Exciter Mode" Value="2" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="6.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="10.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Amount" Value="3.03921580" />
+        <Param ElementID="Exciter" ParamID="Band 1 Exciter Mode" Value="4" />
+        <Param ElementID="Exciter" ParamID="Band 4 Mix" Value="10.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Exciter Mode" Value="4" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="840.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 1 Mix" Value="20.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 4 Amount" Value="6.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 1 Amount" Value="5.58823538" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="15.00000000" />
+    </Exciter>
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAcAAABFeGNpdGVy" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>

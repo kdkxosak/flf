@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Dynamically control nasal resonances that cloud your mix." LastUsed="1506541697" LastModified="1506288346">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA8AAABTcGVjdHJhbCBTaGFwZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="1">
+        <Param ElementID="Spectral Shaper" ParamID="ATTACK_TIME" Value="20.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="SPECTRAL_TILT" Value="100.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="THRESHOLD" Value="-10.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="VISIBLE_METER" Value="1" />
+        <Param ElementID="Spectral Shaper" ParamID="LOW_CUTOFF" Value="446.37808228" />
+        <Param ElementID="Spectral Shaper" ParamID="RELEASE_TIME" Value="40.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="HIGH_CUTOFF" Value="800.00000000" />
+    </SpectralShaper>
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Light saturation for a rich sound" LastUsed="1445543302" LastModified="1445541039">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Frequency" Value="99.76509094" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Gain" Value="0.25714159" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Frequency" Value="783.41918945" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Gain" Value="-0.65042138" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Q" Value="0.46443745" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Frequency" Value="6327.33105469" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Gain" Value="-0.95294112" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="2030.17199707" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="0.98319411" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Band 2 Amount" Value="1.50000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="22.94117737" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="243.10208130" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="10000.00000000" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="14432.68554688" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="1" />
+        <Param ElementID="Exciter" ParamID="Num Bands" Value="2" />
+        <Param ElementID="Exciter" ParamID="Post-Filter Frequency" Value="8245.31054688" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABEeW5hbWljIEVRAAcAAABFeGNpdGVyAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="2.39000010" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-4.19401550" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

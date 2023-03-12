@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="790" Comments="7.5 inch tape with high bias for tape saturated drums" LastUsed="1506213104" LastModified="1506213106">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGU=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="2.71844649" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="5.09708786" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="10.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="20.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="7.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Tape Speed" Value="2" />
+    </VintageTape>
+</Ozone8App>

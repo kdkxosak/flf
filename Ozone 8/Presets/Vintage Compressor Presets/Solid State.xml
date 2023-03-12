@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Faster solid state style compression for transient control" LastUsed="1445539683" LastModified="1445539048">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3I=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="0.60000002" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="30.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="4.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="7921.43310547" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="-6.11113834" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-6.29115677" />
+    </VintageCompressor>
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

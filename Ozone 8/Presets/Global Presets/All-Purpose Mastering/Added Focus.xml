@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Stereo processing and spectral transient limiting to add focus to your mix" LastUsed="1445616180" LastModified="1445616182">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AA0AAABTdGVyZW8gSW1hZ2VyAAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-50.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="-20.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="-15.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="12.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="130.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="2587.11328125" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 3" Value="10052.48339844" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.50000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Prevent Intersample Clipping" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Spectral Shaping Style" Value="2" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-5.00000000" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

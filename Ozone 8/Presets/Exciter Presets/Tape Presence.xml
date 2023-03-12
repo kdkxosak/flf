@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Stereo accentuated tape saturation" LastUsed="1445540006" LastModified="1445539948">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Aux: Band 1 Amount" Value="4.10156250" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 1 Mix" Value="25.78125000" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 2 Mix" Value="0.00000000" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 3 Amount" Value="6.56250000" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 3 Mix" Value="59.37500000" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 4 Amount" Value="10.67647076" />
+        <Param ElementID="Exciter" ParamID="Aux: Band 4 Mix" Value="37.05882263" />
+        <Param ElementID="Exciter" ParamID="Aux: Mode" Value="2" />
+        <Param ElementID="Exciter" ParamID="Aux: Post-Filter Frequency" Value="20000.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 1 Amount" Value="4.80468750" />
+        <Param ElementID="Exciter" ParamID="Band 1 Mix" Value="25.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 2 Mix" Value="0.00000000" />
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="3.28125000" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="60.93750000" />
+        <Param ElementID="Exciter" ParamID="Band 4 Amount" Value="7.50000000" />
+        <Param ElementID="Exciter" ParamID="Band 4 Mix" Value="62.50000000" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 1" Value="258.28662109" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 2" Value="3571.32861328" />
+        <Param ElementID="Exciter" ParamID="Crossover Cutoff 3" Value="6743.26806641" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="2" />
+        <Param ElementID="Exciter" ParamID="Oversample" Value="1" />
+        <Param ElementID="Exciter" ParamID="Post-Filter Frequency" Value="20000.00000000" />
+        <Param ElementID="Exciter" ParamID="Processing Mode" Value="1" />
+    </Exciter>
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAcAAABFeGNpdGVy" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Simple 60&apos;s style processing" LastUsed="1445543334" LastModified="1445535743">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAA8AAABWaW50YWdlIExpbWl0ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Atten" Value="1.41176474" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost" Value="2.47058821" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Q" Value="0.70588237" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="1.29411769" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="2.58823538" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="3.05882359" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="3" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="2" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="0.79999995" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000038" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-2.20112801" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Sharp compression and tape drive for added depth" LastUsed="1445543329" LastModified="1445535292">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3IACgAAAFZpbnRhZ2UgRVEADAAAAFZpbnRhZ2UgVGFwZQAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="4.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-18.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="3.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="0" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.79999995" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-6.00000000" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-2.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="6.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="4.80582523" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="5.43689299" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="4.40000010" />
+        <Param ElementID="Vintage Tape" ParamID="Tape Speed" Value="1" />
+    </VintageTape>
+</Ozone7>

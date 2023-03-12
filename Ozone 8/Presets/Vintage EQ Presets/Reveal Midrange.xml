@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1" Comments="Allows the midrange to come through smoothly" LastUsed="1445561907" LastModified="1445538144">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVR" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="4.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="3.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="5.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="1" />
+    </VintageEQ>
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

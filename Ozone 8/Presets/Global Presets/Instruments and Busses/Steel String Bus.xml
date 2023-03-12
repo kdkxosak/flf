@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Bring out steel stringed instrument detail" LastUsed="1445543338" LastModified="1445537715">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 2 Frequency" Value="540.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Aux: Band 5 Frequency" Value="2700.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Expansion Mode" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Frequency" Value="326.79315186" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Gain" Value="-6.51932716" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 1 Threshold" Value="-27.82927704" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Frequency" Value="272.28369141" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Gain" Value="-2.22352982" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 2 Q" Value="1.55774987" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 4 Enable" Value="0" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Enable" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Expansion Mode" Value="1" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Frequency" Value="2412.51879883" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Gain" Value="2.19327545" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 5 Q" Value="1.55774987" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="4694.47167969" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="1.83025169" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.77100420" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.27100420" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="139.52716064" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-232.02716064" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAoAAABWaW50YWdlIEVRAAwAAABWaW50YWdlIFRhcGUAEgAAAFZpbnRhZ2UgQ29tcHJlc3NvcgAKAAAARHluYW1pYyBFUQ==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="3.99999976" />
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Ratio" Value="1.39999998" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="1788.05236816" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="7.96297026" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="6786.23974609" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="6.48148537" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-6.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost" Value="2.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP High Boost Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Boost" Value="2.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Mid Cut" Value="1.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Mid Frequency" Value="6" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Atten" Value="0.50000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="1.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Processing Mode" Value="1" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-2.20280433" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="2.13592243" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="7.28155327" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="-5.16351891" />
+    </VintageTape>
+</Ozone7>

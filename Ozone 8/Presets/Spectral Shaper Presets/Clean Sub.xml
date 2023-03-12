@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Eliminate sub frequencies that various speaker systems struggle to reproduce." LastUsed="1506541672" LastModified="1506288339">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA8AAABTcGVjdHJhbCBTaGFwZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="1">
+        <Param ElementID="Spectral Shaper" ParamID="ATTACK_TIME" Value="15.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="SPECTRAL_TILT" Value="35.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="COMPRESSION_MODE" Value="0" />
+        <Param ElementID="Spectral Shaper" ParamID="THRESHOLD" Value="-3.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="LOW_CUTOFF" Value="20.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="RELEASE_TIME" Value="60.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="HIGH_CUTOFF" Value="40.00000000" />
+    </SpectralShaper>
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>

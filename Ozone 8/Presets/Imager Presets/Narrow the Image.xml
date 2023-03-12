@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Gentle tightening of the overall image" LastUsed="1445540109" LastModified="1445540088">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA0AAABTdGVyZW8gSW1hZ2Vy" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-8.14814568" />
+        <Param ElementID="Stereo Imager" ParamID="Band 2 Width Percent" Value="-2.22222137" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="-2.22222137" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="-8.14814758" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="94.58112335" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="711.71649170" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 3" Value="8349.94042969" />
+        <Param ElementID="Stereo Imager" ParamID="Stereoizer Delay" Value="7.00000000" />
+    </Imager>
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Brightens and pulls midrange closer to the listener" LastUsed="1506558451" LastModified="1506211838">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="2306.38989258" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="3.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="3.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Q" Value="0.20000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="0.30000001" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="2000.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="74.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="350.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Shape" Value="2" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="1.95126057" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="14000.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Shape" Value="11" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIADwAAAFNwZWN0cmFsIFNoYXBlcgAJAAAATWF4aW1pemVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Stereo Transient Link Amount" Value="20.00000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Enable Transient Shaping" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Stereo Link" Value="20.00000000" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.00000000" />
+        <Param ElementID="Maximizer" ParamID="Transient Shaping" Value="80.00000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-1.00000000" />
+        <Param ElementID="Maximizer" ParamID="Character" Value="0.69999999" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <SpectralShaper Enabled="1">
+        <Param ElementID="Spectral Shaper" ParamID="ATTACK_TIME" Value="5.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="SPECTRAL_TILT" Value="-20.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="COMPRESSION_MODE" Value="0" />
+        <Param ElementID="Spectral Shaper" ParamID="THRESHOLD" Value="-20.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="LOW_CUTOFF" Value="2396.67675781" />
+        <Param ElementID="Spectral Shaper" ParamID="RELEASE_TIME" Value="10.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="HIGH_CUTOFF" Value="7895.03466797" />
+    </SpectralShaper>
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone8App>

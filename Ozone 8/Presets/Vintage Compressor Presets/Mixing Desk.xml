@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Mixing desk gel and balanced compression" LastUsed="1445539682" LastModified="1445538944">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="ABIAAABWaW50YWdlIENvbXByZXNzb3I=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Attack" Value="34.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Master Release" Value="42.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Frequency" Value="2007.30944824" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Bell Gain" Value="-8.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain Highpass Frequency" Value="400.00000000" />
+        <Param ElementID="Vintage Compressor" ParamID="Threshold" Value="-16.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

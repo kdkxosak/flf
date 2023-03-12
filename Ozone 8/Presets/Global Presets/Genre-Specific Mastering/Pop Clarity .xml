@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Modern frequency balance and vintage compression to ensure clarity on all consumer playback systems." LastUsed="1506558421" LastModified="1506212334">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="559.25299072" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="5.25714302" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Q" Value="12.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Gain" Value="4.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="20.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Shape" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-0.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="350.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Shape" Value="6" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Shape" Value="10" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="4.00840330" />
+        <Param ElementID="Equalizer" ParamID="Band 7 Frequency" Value="11300.26562500" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Q" Value="0.20000000" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIADQAAAFN0ZXJlbyBJbWFnZXIAEgAAAFZpbnRhZ2UgQ29tcHJlc3NvcgAJAAAATWF4aW1pemVy" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Num Bands" Value="1" />
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="20.00000381" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Stereo Transient Link Amount" Value="20.00000000" />
+        <Param ElementID="Maximizer" ParamID="Stereo Link Amounts Linked" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="1" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.00000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-1.00000000" />
+        <Param ElementID="Maximizer" ParamID="Character" Value="0.60000002" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <SpectralShaper Enabled="1" />
+    <VintageCompressor Enabled="1">
+        <Param ElementID="Vintage Compressor" ParamID="Knee Mode" Value="0" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Gain" Value="-2.31251836" />
+        <Param ElementID="Vintage Compressor" ParamID="Sidechain High Shelf Frequency" Value="4000.00000000" />
+    </VintageCompressor>
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone8App>

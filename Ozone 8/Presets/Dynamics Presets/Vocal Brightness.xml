@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Two band adaptive compression to accentuate vocal frequencies" LastUsed="1445540050" LastModified="1445445446">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Attack" Value="30.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Release" Value="250.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Comp Threshold" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Lim Attack" Value="25.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 1 Lim Release" Value="360.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Release" Value="150.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 2 Lim Release" Value="150.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 3 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Ratio" Value="1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Band 4 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Aux: Mode" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Attack" Value="1.86282313" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Ratio" Value="1.50000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="128.00001526" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-28.15460968" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="6.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Attack" Value="25.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Lim Release" Value="250.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Attack" Value="10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Release" Value="100.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-26.74226379" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Gain" Value="9.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Lim Release" Value="150.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Lim Threshold" Value="-1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Ratio" Value="1.50000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-10.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Lim Threshold" Value="-1.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Threshold" Value="-9.62910080" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="499.11633301" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="2737.21972656" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="6000.00000000" />
+        <Param ElementID="Dynamics" ParamID="Num Bands" Value="2" />
+        <Param ElementID="Dynamics" ParamID="Sidechain HPF" Value="20.00000000" />
+        <Param ElementID="Dynamics" ParamID="Sidechain Slope" Value="0" />
+    </Dynamics>
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcw==" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone7>

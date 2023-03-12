@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Control lower mud frequencies" LastUsed="1445543332" LastModified="1445535573">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Alt Solo Freq" Value="270.11865234" />
+        <Param ElementID="Equalizer" ParamID="Alt Solo Gain" Value="0.25714293" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="84.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-1.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="360.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Gain" Value="-0.69999999" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="4.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Frequency" Value="260.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Gain" Value="-0.98416668" />
+        <Param ElementID="Equalizer" ParamID="Band 4 Q" Value="6.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="552.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="0.50000000" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIACgAAAFZpbnRhZ2UgRVEADAAAAFZpbnRhZ2UgVGFwZQAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP Low Atten" Value="2.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: EQP Low Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Boost" Value="6.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ High Frequency" Value="0" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Low Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Aux: MEQ Mid Frequency" Value="7" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Q" Value="10.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="EQP Low Boost" Value="0.00833333" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="5.64705896" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="3" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="5.29411793" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="3.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Mid/Side Selection" Value="1" />
+        <Param ElementID="Vintage EQ" ParamID="Processing Mode" Value="1" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="1.60000002" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-4.80000019" />
+        <Param ElementID="Vintage Limiter" ParamID="True Peak" Value="1" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="-2.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Even Harmonics" Value="4.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="10.00000000" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="2.50000000" />
+    </VintageTape>
+</Ozone7>

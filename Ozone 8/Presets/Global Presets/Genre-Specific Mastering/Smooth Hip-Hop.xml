@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Vintage limiting for heavy bass music" LastUsed="1445543302" LastModified="1445540999">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Auto Gain Compensation" Value="1" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="0.60000002" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Attack" Value="50.84631348" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Ratio" Value="2.11755919" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Release" Value="221.59130859" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Soft Knee" Value="4.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-20.37513733" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="60.55555344" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-21.56121063" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Gain" Value="0.20000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Mix" Value="65.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Gain" Value="0.80000001" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="180.30657959" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="11886.32812500" />
+        <Param ElementID="Dynamics" ParamID="Sidechain Filter Mode" Value="1" />
+    </Dynamics>
+    <EQ Enabled="1" />
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAgAAABEeW5hbWljcwANAAAAU3RlcmVvIEltYWdlcgAPAAAAVmludGFnZSBMaW1pdGVy" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-5.06328583" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="11.39240265" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 1" Value="199.18212891" />
+    </Imager>
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="3.14497256" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-4.78647757" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="0" />
+    </VintageLimiter>
+    <VintageTape Enabled="1" />
+</Ozone7>

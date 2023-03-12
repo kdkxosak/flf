@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Latin music detail and percussive transients" LastUsed="1445543300" LastModified="1445540855">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="3230.76367188" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="0.55966395" />
+    </DynamicEQ>
+    <Dynamics Enabled="1">
+        <Param ElementID="Dynamics" ParamID="Active Band" Value="2" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Attack" Value="24.52079010" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Release" Value="298.05154419" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Soft Knee" Value="0.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Comp Threshold" Value="-25.82772827" />
+        <Param ElementID="Dynamics" ParamID="Band 1 Gain" Value="0.50000000" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Ratio" Value="2.46038294" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Comp Threshold" Value="-20.37513733" />
+        <Param ElementID="Dynamics" ParamID="Band 2 Mix" Value="28.33333397" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Comp Threshold" Value="-24.49523163" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Gain" Value="0.20000000" />
+        <Param ElementID="Dynamics" ParamID="Band 3 Mix" Value="40.00000000" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Comp Threshold" Value="-25.82772827" />
+        <Param ElementID="Dynamics" ParamID="Band 4 Mix" Value="62.22222519" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 1" Value="161.49902344" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 2" Value="3999.79248047" />
+        <Param ElementID="Dynamics" ParamID="Crossover Cutoff 3" Value="11724.82910156" />
+        <Param ElementID="Dynamics" ParamID="Sidechain Filter Mode" Value="1" />
+    </Dynamics>
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Band 2 Enable" Value="1" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Frequency" Value="63.90000153" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Gain" Value="1.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 2 Q" Value="3.46987963" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Frequency" Value="407.45465088" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Gain" Value="-1.09999824" />
+        <Param ElementID="Equalizer" ParamID="Band 3 Q" Value="3.18554235" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Enable" Value="0" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="6813.25976562" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="1.49999607" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="1.19518077" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.78684568" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.29734755" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="140.11329651" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-233.00187683" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.81872821" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.35036707" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="141.29295349" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-234.96359253" />
+    </EQ2>
+    <Exciter Enabled="1">
+        <Param ElementID="Exciter" ParamID="Band 3 Amount" Value="0.97058827" />
+        <Param ElementID="Exciter" ParamID="Band 3 Mix" Value="17.64705849" />
+        <Param ElementID="Exciter" ParamID="Band 4 Amount" Value="0.97058827" />
+        <Param ElementID="Exciter" ParamID="Band 4 Mix" Value="19.41176414" />
+        <Param ElementID="Exciter" ParamID="Mode" Value="2" />
+    </Exciter>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAcAAABFeGNpdGVyAAkAAABFcXVhbGl6ZXIACAAAAER5bmFtaWNzAAoAAABEeW5hbWljIEVRAAkAAABNYXhpbWl6ZXI=" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.56282139" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.24898291" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

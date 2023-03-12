@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="Deep bass and high treble for modern Funk" LastUsed="1445543333" LastModified="1445535710">
+    <DynamicEQ Enabled="1" />
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Max" Value="3.80275345" />
+        <Param ElementID="Equalizer" ParamID="Delay Magnitude Min" Value="-6.32380199" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Max" Value="140.70188904" />
+        <Param ElementID="Equalizer" ParamID="Phase Magnitude Min" Value="-233.98068237" />
+    </EQ>
+    <EQ2 Enabled="1">
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Max" Value="3.80275345" />
+        <Param ElementID="Post Equalizer" ParamID="Delay Magnitude Min" Value="-6.32380199" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Max" Value="140.70188904" />
+        <Param ElementID="Post Equalizer" ParamID="Phase Magnitude Min" Value="-233.98068237" />
+    </EQ2>
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAwAAABWaW50YWdlIFRhcGUACgAAAFZpbnRhZ2UgRVEADwAAAFZpbnRhZ2UgTGltaXRlcg==" />
+    </Global>
+    <Imager Enabled="1" />
+    <Maximizer Enabled="1" />
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1">
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost" Value="2.70588255" />
+        <Param ElementID="Vintage EQ" ParamID="EQP High Boost Frequency" Value="5" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Boost" Value="2.35294127" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ High Frequency" Value="4" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Low Boost" Value="1.59999990" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Cut" Value="1.00000000" />
+        <Param ElementID="Vintage EQ" ParamID="MEQ Mid Frequency" Value="0" />
+    </VintageEQ>
+    <VintageLimiter Enabled="1">
+        <Param ElementID="Vintage Limiter" ParamID="Character" Value="4.00000000" />
+        <Param ElementID="Vintage Limiter" ParamID="Margin" Value="-0.10000038" />
+        <Param ElementID="Vintage Limiter" ParamID="Threshold" Value="-2.65582848" />
+        <Param ElementID="Vintage Limiter" ParamID="Vintage Mode" Value="2" />
+    </VintageLimiter>
+    <VintageTape Enabled="1">
+        <Param ElementID="Vintage Tape" ParamID="Bias" Value="0.35343647" />
+        <Param ElementID="Vintage Tape" ParamID="Head Bump" Value="2.79999995" />
+        <Param ElementID="Vintage Tape" ParamID="High Frequency Emphasis" Value="4.36893177" />
+        <Param ElementID="Vintage Tape" ParamID="Input/Drive" Value="2.00000000" />
+    </VintageTape>
+</Ozone7>

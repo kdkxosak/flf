@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone7 PresetVer="1" PluginVer="7000" PluginBuild="1232" Comments="General dynamic brightening for any mix" LastUsed="1445542481" LastModified="1445542497">
+    <DynamicEQ Enabled="1">
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Frequency" Value="529.87707520" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 3 Gain" Value="2.50000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Frequency" Value="9000.00000000" />
+        <Param ElementID="Dynamic EQ" ParamID="Band 6 Gain" Value="3.00000000" />
+    </DynamicEQ>
+    <Dynamics Enabled="1" />
+    <EQ Enabled="1">
+        <Param ElementID="Equalizer" ParamID="Band 1 Frequency" Value="30.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 1 Gain" Value="-0.50000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Frequency" Value="2300.00000000" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Gain" Value="0.54666674" />
+        <Param ElementID="Equalizer" ParamID="Band 5 Q" Value="1.09237504" />
+    </EQ>
+    <EQ2 Enabled="1" />
+    <Exciter Enabled="1" />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="ElementChain" Data="AAkAAABFcXVhbGl6ZXIACgAAAER5bmFtaWMgRVEADQAAAFN0ZXJlbyBJbWFnZXIACQAAAE1heGltaXplcg==" />
+    </Global>
+    <Imager Enabled="1">
+        <Param ElementID="Stereo Imager" ParamID="Band 1 Width Percent" Value="-30.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Band 3 Width Percent" Value="16.45569992" />
+        <Param ElementID="Stereo Imager" ParamID="Band 4 Width Percent" Value="30.00000000" />
+        <Param ElementID="Stereo Imager" ParamID="Crossover Cutoff 2" Value="1902.58666992" />
+    </Imager>
+    <Maximizer Enabled="1">
+        <Param ElementID="Maximizer" ParamID="Character" Value="1.50000000" />
+        <Param ElementID="Maximizer" ParamID="Margin" Value="-0.10000000" />
+        <Param ElementID="Maximizer" ParamID="Mode" Value="3" />
+        <Param ElementID="Maximizer" ParamID="Spectral Shaping Style" Value="0" />
+        <Param ElementID="Maximizer" ParamID="Threshold" Value="-4.38607073" />
+    </Maximizer>
+    <Meters Enabled="1" />
+    <Plugin Enabled="1" />
+    <VintageCompressor Enabled="1" />
+    <VintageEQ Enabled="1" />
+    <VintageLimiter Enabled="1" />
+    <VintageTape Enabled="1" />
+</Ozone7>

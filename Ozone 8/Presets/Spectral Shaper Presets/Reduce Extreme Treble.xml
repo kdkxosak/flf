@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone8App PresetVer="1" PluginVer="8000" PluginBuild="809" Comments="Reduces extreme treble frequences that distract the ear from the midrange." LastUsed="1506541681" LastModified="1506288366">
+    <DynamicEQ Enabled="0" />
+    <Dynamics Enabled="0" />
+    <EQ Enabled="0" />
+    <EQ2 Enabled="0" />
+    <Exciter Enabled="0" />
+    <Global Enabled="0">
+        <ExtraBytes ElementID="ElementChain" Data="AA8AAABTcGVjdHJhbCBTaGFwZXI=" />
+    </Global>
+    <Imager Enabled="0" />
+    <Maximizer Enabled="0" />
+    <Meters Enabled="0" />
+    <Plugin Enabled="0" />
+    <SpectralShaper Enabled="1">
+        <Param ElementID="Spectral Shaper" ParamID="ATTACK_TIME" Value="10.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="SPECTRAL_TILT" Value="15.38461304" />
+        <Param ElementID="Spectral Shaper" ParamID="THRESHOLD" Value="-45.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="LOW_CUTOFF" Value="12000.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="RELEASE_TIME" Value="5.00000000" />
+        <Param ElementID="Spectral Shaper" ParamID="HIGH_CUTOFF" Value="20000.00000000" />
+    </SpectralShaper>
+    <VintageCompressor Enabled="0" />
+    <VintageEQ Enabled="0" />
+    <VintageLimiter Enabled="0" />
+    <VintageTape Enabled="0" />
+</Ozone8App>
